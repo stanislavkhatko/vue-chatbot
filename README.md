@@ -6,15 +6,6 @@
 3. Than start serving with: `$ yarn serve`
 4. Everything you need is in the **src** directory
 
-#### How to show us your results:
-1. Push your results to your public repo
-2. Give access to maurice@proxify.io and vlad@proxify.io
-
-#### What you should show us:
-1. Clean and readable code
-2. Good refactoring skills
-3. Reusable code fragments
-
 #### The main task in this assignment:
 Your task is to fix the broken chatbot and write as many features properly as you can.
 
